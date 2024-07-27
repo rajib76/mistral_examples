@@ -1,0 +1,4 @@
+mistralai
+python-dotenv
+langsmith
+langchain_core
